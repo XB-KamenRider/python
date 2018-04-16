@@ -1,8 +1,11 @@
 #!/user/bin/python
-# -*- coding: UTF-8 -*-
+# -*- coding: UTF-8 -*- 
+# 标题语言类型 --- 如不标记,中文报错
 # 文件名: index.py
-print ("你好,世界");
+'''
+    这是一个多行注释
+'''
 if True: 
-    print "hello word"
+    print ('hello python')
 else:
-    print "hello no word"
+    print ('no hello word')
